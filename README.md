@@ -6,6 +6,8 @@
 [![NPM version](https://img.shields.io/npm/v/prettier.svg)](https://www.npmjs.com/package/prettier)
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](#badge)
 
+## This Hootsuite Labs fork includes support for some angularjs-specific styles
+
 Prettier is an opinionated code formatter with support for:
 * JavaScript, including [ES2017](https://github.com/tc39/proposals/blob/master/finished-proposals.md)
 * [JSX](https://facebook.github.io/jsx/)
